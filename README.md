@@ -1,2 +1,0 @@
-# election-analysis
-Module 3 Python Election Analysis
