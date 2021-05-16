@@ -30,11 +30,14 @@ This script can be used for any election as the election_results.csv file can be
 
  1. Update the election_results.csv file with the new election data.
  2. Save the file to the Resources folder as this is where the script will take the information from as shown below in the file_to_load object.
- ![Screen Shot 2021-05-16 at 9 56 39 AM](https://user-images.githubusercontent.com/17945476/118400956-c3d37500-b631-11eb-858f-e4d492b43340.png)
+ 
+   ![Screen Shot 2021-05-16 at 9 56 39 AM](https://user-images.githubusercontent.com/17945476/118400956-c3d37500-b631-11eb-858f-e4d492b43340.png)
+   
  3. Run the script.
  4. Open the election_analysis.txt file to see the results as this is where the script will print the results as shown below in the file_to_save object.
- ![Screen Shot 2021-05-16 at 9 56 39 AM](https://user-images.githubusercontent.com/17945476/118400956-c3d37500-b631-11eb-858f-e4d492b43340.png)
  
-
+   ![Screen Shot 2021-05-16 at 9 56 39 AM](https://user-images.githubusercontent.com/17945476/118400956-c3d37500-b631-11eb-858f-e4d492b43340.png)
+   
 The direct file path can be updated to show an indirect file path if the file is saved to a different folder as shown in the picture below.
-![Screen Shot 2021-05-16 at 10 20 54 AM](https://user-images.githubusercontent.com/17945476/118400974-db126280-b631-11eb-8487-c81cd22b1e42.png)
+
+  ![Screen Shot 2021-05-16 at 10 20 54 AM](https://user-images.githubusercontent.com/17945476/118400974-db126280-b631-11eb-8487-c81cd22b1e42.png)
